@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+/*Header*/
+#header {
+  width: 100%;
+  height: 110px;
+  background-color: #2e3436;
+ }
+
+#logo {
+  width: 110px;
+  height: 110px;
+  vertical-align: middle;
+ }
+ 
+ #navigasi {
+   color: #fff;
+   word-spacing: 50px;
+   padding-left: 100px;
+ }
+ 
+ #link-active {
+   color: #f88601;
+ }
+ 
+ #phone {
+   color: #fff;
+   font-size: 25px;
+   word-spacing: 0;
+   text-align: right;
+   margin-left: 270px;
+ }
+ 
+ /*Slider*/
+ #slider {
+  height: 550px;
+  text-align: center;
+  background-color: #2e3436;
+  }
+  
+  /*opening*/
+  #opening {
+    background-color: #f88601;
+    padding-top: 400px;
+    padding-bottom: 300px;
+ }
+ 
+ #bungkus-opening {
+    width: 960px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ 
+ #isi-opening {
+    padding-right: 400px;
+ }
+ 
+ #subjudul-opening {
+    color: #fff;
+    font-size: 30px;
+ }
+ 
+ #judul-opening {
+    color: #2e3436;
+    font-size: 80px;
+ }
+ 
+ #deskripsi-opening {
+    color: #fff;
+    font-size: 18px;
+    line-height: 25px;
+ }
+ 
+ #tombol-opening {
+    width: 150px;
+    height: 20px;
+    background-color: #fff;
+    color: #f88601;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    margin-top: 20px;
+ }
